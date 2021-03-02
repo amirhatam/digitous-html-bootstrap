@@ -1,0 +1,19 @@
+.label {
+    padding: 1vmax 0 5px 7.2vmax;
+    font-weight: 500;
+}
+
+.input {
+    border-radius: 5px;
+    border: 1px solid #cdd4d9;
+    padding: 7px;
+}
+
+.button {
+    margin: 1% 0 0 6.2em;
+    background-color: #0870ff;
+    border: 1px solid #0870ff;
+    border-radius: 5px;
+    color: white;
+    padding: 6px 12px;
+}

@@ -1,0 +1,30 @@
+/* nav */
+
+nav {
+    background-color: #2e3338;
+}
+
+.first-color {
+    color: #f9f9f9;
+}
+.sec-color {
+color: #8c8f93;
+}
+
+h4 {
+    margin: 0px 15px 5px 15px;
+}
+
+/* Header  */
+
+.container {
+    background-color: #e6e9ed;
+    box-sizing: content-box;
+}
+
+header img {
+    border-radius: 50%;
+}
+.gray {
+    height: 50px;
+}
